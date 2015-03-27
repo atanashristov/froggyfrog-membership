@@ -1,5 +1,6 @@
 {
   "name": "froggyfrog-membership",
+  "version" : "0.0.1",
   "author": "Atanas Hristov",
   "description": "A membership system",
   "dependencies": {},
